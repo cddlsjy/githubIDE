@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.github.filemanager.app-release-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.github.filemanager.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.github.filemanager.app-release-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.github.filemanager.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.github.filemanager.app-release-45:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.github.filemanager.app-main-46:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.github.filemanager.app-release-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.github.filemanager.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.github.filemanager.app-release-45:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.github.filemanager.app-main-46:/mipmap-hdpi/ic_launcher_round.xml"
+    }
+]

@@ -1,0 +1,397 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.navigation:navigation-common:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\637511a137d7adf571faa680f6ab8120\transformed\navigation-common-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\0f93822c9cd1d1374a711cf59b50764d\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\dc7a93c7f57205850d0d8fb6dda3f570\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\2c7cd87e5120c081895f881afba1ac05\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\932f8ef8dbdf3d65c70b3c9fa67885c2\transformed\jetified-navigation-compose-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\885d30abad009ae6b40c79bd4019bde9\transformed\jetified-material3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\84bf498c6753b49ee0b6f58aebaf70d0\transformed\jetified-material\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\70b711cc3c95667c67a87007f89ead23\transformed\jetified-animation-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\c1636adf162458ae8cc5c24a6b2addfc\transformed\jetified-material-ripple\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\0452a8de48b18791f8a75a5c0257046c\transformed\jetified-animation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\c24988b9c9d500fff2afcb5960bdb673\transformed\jetified-foundation-layout\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\19ac430ff6b812ada18ec46093f94b00\transformed\jetified-foundation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8ad22c02f5da8fd7db93484a1818db68\transformed\jetified-ui-tooling-data\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b6f89726c7bf437e5a4ace16c6d28749\transformed\jetified-ui-unit\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\1dd95b16143c6d8a3d8f27ebb34a0a1b\transformed\jetified-ui-geometry\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\621c5273d25d81d8e1c86f55c315f86f\transformed\jetified-ui-util\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\fd523505ff5c1ffc0f1486ac03bb33e8\transformed\jetified-ui-text\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\a010da1f3c32993fa952f74ce4c9295e\transformed\jetified-ui-tooling-preview\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\42b3da3d93360842822a9022f125d65a\transformed\jetified-ui-tooling\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\afc4eec8d6ad5b09aa9a9228efa5830d\transformed\jetified-ui-graphics\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] D:\dev2026\Gradle_Home\caches\8.9\transforms\7ac4e0c8a0b4f5ba4317df4be4bdbab3\transformed\jetified-material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] D:\dev2026\Gradle_Home\caches\8.9\transforms\6ca7f236863695cdc0b2553baa1600dc\transformed\jetified-material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\4bb6ab3793554e3cd7f75e3684ff9fb7\transformed\jetified-runtime-annotation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\eed14845eba73147cec659e2a05bf125\transformed\jetified-runtime-retain\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.10.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\c57777aae9928c521fdd407e312b09a7\transformed\jetified-activity-1.10.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\5622d61a9dbc08a0427e984b2c47c521\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\3c7e5cb8d88c9cdd0f9103b4023cc520\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.6.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\d8eda6d414565093e702fc69013a7dab\transformed\transition-1.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-core-android:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\73791f12df1612fb89b3cc7e3aaea636\transformed\jetified-window-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\71215699db12c27859351f9e7741e1cc\transformed\jetified-window-1.5.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\37493b4a8d7668f431e38e4965c5a7d6\transformed\jetified-graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\1839654cfef2957e86c4acadbae2740d\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\aca70cf4205ab142fbb84b412637675c\transformed\jetified-core-ktx-1.16.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\fc75376edcd64f62aa1d6bd7aa284800\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\4f74eee38add3b5be0bf25133d4e3d61\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\9bbf5f05781e01994cf9eb2a3ae9698e\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\57f206eb8a0eb8584cea68877406d8ad\transformed\jetified-lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\120860741adc303c28b710767db55710\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\ddeff0722daf2fd3c0d19c6e7fe2bd57\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\0015c8dfe2079295271cf512fc241d6f\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\c12225d2a13951dbda760d8d27bda8b5\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\0c2b8275259ec1667bdb5a820540951a\transformed\jetified-lifecycle-runtime-ktx\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\562d01503579030275c76972b034b8e8\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\461ed608b4a6b77bf38bf7bc83199436\transformed\jetified-lifecycle-process-2.9.4\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\324a3b739970b1178280a82e9af63cd8\transformed\jetified-lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\f5e7c05b6cc8fd2cc5c64f908313a3be\transformed\jetified-lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] D:\dev2026\Gradle_Home\caches\8.9\transforms\267600a9ba7e1df60362deb3fbcf86cc\transformed\jetified-savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] D:\dev2026\Gradle_Home\caches\8.9\transforms\fb4074c7c706415221bdca4298736aea\transformed\jetified-savedstate-ktx-1.3.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] D:\dev2026\Gradle_Home\caches\8.9\transforms\e9f49937105c28ef8da34855f5bf9b17\transformed\jetified-savedstate-compose\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\36a8cabffcc1cfc94d5c1b9cf7e4a533\transformed\jetified-runtime\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\a8d84b5dbd582bcbe94c962d54949a07\transformed\jetified-runtime-saveable\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\58099a1fefdf516b9eeb3214da12cdc7\transformed\jetified-lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\974ff8dd826475991af605f786dd11a6\transformed\jetified-lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\9b072abcdfa1b65d5135f7517accb15b\transformed\jetified-ui\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\456f09d23fc0902a67976327ea6e9cc9\transformed\jetified-activity-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\6dc2159cd31f68d9765ee178392b8b99\transformed\jetified-activity-compose-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\603a3b82a079f2baf10c9e65ccba2167\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\961c6dfc1adbb9a897d24b6e97493a34\transformed\jetified-core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\6d440091e6cd38d79f85b9967a866a9c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\d89b146ad9d7eba293fc790b0c6e2b76\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\97766c7f340ae7e4cce0c5bf7113164c\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\03a56a044de1f025411bf0954701744f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\bd78f61398f9ee314b7e45cf9fe24000\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\6bf8491d0ab53d9752ee7ed0c572cc4e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\e2ac8e73d357e7b8f031982bc0ac340c\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\17c2f6b23cd913db5ea64278319b9c14\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:7:5-24:19
+INJECTED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\42b3da3d93360842822a9022f125d65a\transformed\jetified-ui-tooling\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\42b3da3d93360842822a9022f125d65a\transformed\jetified-ui-tooling\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\5622d61a9dbc08a0427e984b2c47c521\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\5622d61a9dbc08a0427e984b2c47c521\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\71215699db12c27859351f9e7741e1cc\transformed\jetified-window-1.5.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\71215699db12c27859351f9e7741e1cc\transformed\jetified-window-1.5.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\461ed608b4a6b77bf38bf7bc83199436\transformed\jetified-lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\461ed608b4a6b77bf38bf7bc83199436\transformed\jetified-lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\6d440091e6cd38d79f85b9967a866a9c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\6d440091e6cd38d79f85b9967a866a9c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\d89b146ad9d7eba293fc790b0c6e2b76\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\d89b146ad9d7eba293fc790b0c6e2b76\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:13:9-55
+	android:usesCleartextTraffic
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.github.filemanager.MainActivity
+ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:18:13-59
+	android:name
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml
+INJECTED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-common:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\637511a137d7adf571faa680f6ab8120\transformed\navigation-common-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\637511a137d7adf571faa680f6ab8120\transformed\navigation-common-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\0f93822c9cd1d1374a711cf59b50764d\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\0f93822c9cd1d1374a711cf59b50764d\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\dc7a93c7f57205850d0d8fb6dda3f570\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\dc7a93c7f57205850d0d8fb6dda3f570\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\2c7cd87e5120c081895f881afba1ac05\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\2c7cd87e5120c081895f881afba1ac05\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\932f8ef8dbdf3d65c70b3c9fa67885c2\transformed\jetified-navigation-compose-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.9] D:\dev2026\Gradle_Home\caches\8.9\transforms\932f8ef8dbdf3d65c70b3c9fa67885c2\transformed\jetified-navigation-compose-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\885d30abad009ae6b40c79bd4019bde9\transformed\jetified-material3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\885d30abad009ae6b40c79bd4019bde9\transformed\jetified-material3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\84bf498c6753b49ee0b6f58aebaf70d0\transformed\jetified-material\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\84bf498c6753b49ee0b6f58aebaf70d0\transformed\jetified-material\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\70b711cc3c95667c67a87007f89ead23\transformed\jetified-animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\70b711cc3c95667c67a87007f89ead23\transformed\jetified-animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\c1636adf162458ae8cc5c24a6b2addfc\transformed\jetified-material-ripple\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\c1636adf162458ae8cc5c24a6b2addfc\transformed\jetified-material-ripple\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\0452a8de48b18791f8a75a5c0257046c\transformed\jetified-animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\0452a8de48b18791f8a75a5c0257046c\transformed\jetified-animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\c24988b9c9d500fff2afcb5960bdb673\transformed\jetified-foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\c24988b9c9d500fff2afcb5960bdb673\transformed\jetified-foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\19ac430ff6b812ada18ec46093f94b00\transformed\jetified-foundation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\19ac430ff6b812ada18ec46093f94b00\transformed\jetified-foundation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8ad22c02f5da8fd7db93484a1818db68\transformed\jetified-ui-tooling-data\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8ad22c02f5da8fd7db93484a1818db68\transformed\jetified-ui-tooling-data\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b6f89726c7bf437e5a4ace16c6d28749\transformed\jetified-ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b6f89726c7bf437e5a4ace16c6d28749\transformed\jetified-ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\1dd95b16143c6d8a3d8f27ebb34a0a1b\transformed\jetified-ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\1dd95b16143c6d8a3d8f27ebb34a0a1b\transformed\jetified-ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\621c5273d25d81d8e1c86f55c315f86f\transformed\jetified-ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\621c5273d25d81d8e1c86f55c315f86f\transformed\jetified-ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\fd523505ff5c1ffc0f1486ac03bb33e8\transformed\jetified-ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\fd523505ff5c1ffc0f1486ac03bb33e8\transformed\jetified-ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\a010da1f3c32993fa952f74ce4c9295e\transformed\jetified-ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\a010da1f3c32993fa952f74ce4c9295e\transformed\jetified-ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\42b3da3d93360842822a9022f125d65a\transformed\jetified-ui-tooling\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\42b3da3d93360842822a9022f125d65a\transformed\jetified-ui-tooling\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\afc4eec8d6ad5b09aa9a9228efa5830d\transformed\jetified-ui-graphics\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\afc4eec8d6ad5b09aa9a9228efa5830d\transformed\jetified-ui-graphics\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] D:\dev2026\Gradle_Home\caches\8.9\transforms\7ac4e0c8a0b4f5ba4317df4be4bdbab3\transformed\jetified-material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] D:\dev2026\Gradle_Home\caches\8.9\transforms\7ac4e0c8a0b4f5ba4317df4be4bdbab3\transformed\jetified-material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] D:\dev2026\Gradle_Home\caches\8.9\transforms\6ca7f236863695cdc0b2553baa1600dc\transformed\jetified-material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] D:\dev2026\Gradle_Home\caches\8.9\transforms\6ca7f236863695cdc0b2553baa1600dc\transformed\jetified-material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\4bb6ab3793554e3cd7f75e3684ff9fb7\transformed\jetified-runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\4bb6ab3793554e3cd7f75e3684ff9fb7\transformed\jetified-runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\eed14845eba73147cec659e2a05bf125\transformed\jetified-runtime-retain\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\eed14845eba73147cec659e2a05bf125\transformed\jetified-runtime-retain\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.10.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\c57777aae9928c521fdd407e312b09a7\transformed\jetified-activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\c57777aae9928c521fdd407e312b09a7\transformed\jetified-activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\5622d61a9dbc08a0427e984b2c47c521\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\5622d61a9dbc08a0427e984b2c47c521\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\3c7e5cb8d88c9cdd0f9103b4023cc520\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\3c7e5cb8d88c9cdd0f9103b4023cc520\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.6.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\d8eda6d414565093e702fc69013a7dab\transformed\transition-1.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.6.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\d8eda6d414565093e702fc69013a7dab\transformed\transition-1.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\73791f12df1612fb89b3cc7e3aaea636\transformed\jetified-window-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\73791f12df1612fb89b3cc7e3aaea636\transformed\jetified-window-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\71215699db12c27859351f9e7741e1cc\transformed\jetified-window-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\71215699db12c27859351f9e7741e1cc\transformed\jetified-window-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\37493b4a8d7668f431e38e4965c5a7d6\transformed\jetified-graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\37493b4a8d7668f431e38e4965c5a7d6\transformed\jetified-graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\1839654cfef2957e86c4acadbae2740d\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\1839654cfef2957e86c4acadbae2740d\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\aca70cf4205ab142fbb84b412637675c\transformed\jetified-core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\aca70cf4205ab142fbb84b412637675c\transformed\jetified-core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\fc75376edcd64f62aa1d6bd7aa284800\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\fc75376edcd64f62aa1d6bd7aa284800\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\4f74eee38add3b5be0bf25133d4e3d61\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\4f74eee38add3b5be0bf25133d4e3d61\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\9bbf5f05781e01994cf9eb2a3ae9698e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\9bbf5f05781e01994cf9eb2a3ae9698e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\57f206eb8a0eb8584cea68877406d8ad\transformed\jetified-lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\57f206eb8a0eb8584cea68877406d8ad\transformed\jetified-lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\120860741adc303c28b710767db55710\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\120860741adc303c28b710767db55710\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\ddeff0722daf2fd3c0d19c6e7fe2bd57\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\ddeff0722daf2fd3c0d19c6e7fe2bd57\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\0015c8dfe2079295271cf512fc241d6f\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\0015c8dfe2079295271cf512fc241d6f\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\c12225d2a13951dbda760d8d27bda8b5\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\c12225d2a13951dbda760d8d27bda8b5\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\0c2b8275259ec1667bdb5a820540951a\transformed\jetified-lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\0c2b8275259ec1667bdb5a820540951a\transformed\jetified-lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\562d01503579030275c76972b034b8e8\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\562d01503579030275c76972b034b8e8\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\461ed608b4a6b77bf38bf7bc83199436\transformed\jetified-lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\461ed608b4a6b77bf38bf7bc83199436\transformed\jetified-lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\324a3b739970b1178280a82e9af63cd8\transformed\jetified-lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\324a3b739970b1178280a82e9af63cd8\transformed\jetified-lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\f5e7c05b6cc8fd2cc5c64f908313a3be\transformed\jetified-lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\f5e7c05b6cc8fd2cc5c64f908313a3be\transformed\jetified-lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] D:\dev2026\Gradle_Home\caches\8.9\transforms\267600a9ba7e1df60362deb3fbcf86cc\transformed\jetified-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] D:\dev2026\Gradle_Home\caches\8.9\transforms\267600a9ba7e1df60362deb3fbcf86cc\transformed\jetified-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] D:\dev2026\Gradle_Home\caches\8.9\transforms\fb4074c7c706415221bdca4298736aea\transformed\jetified-savedstate-ktx-1.3.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] D:\dev2026\Gradle_Home\caches\8.9\transforms\fb4074c7c706415221bdca4298736aea\transformed\jetified-savedstate-ktx-1.3.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] D:\dev2026\Gradle_Home\caches\8.9\transforms\e9f49937105c28ef8da34855f5bf9b17\transformed\jetified-savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] D:\dev2026\Gradle_Home\caches\8.9\transforms\e9f49937105c28ef8da34855f5bf9b17\transformed\jetified-savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\36a8cabffcc1cfc94d5c1b9cf7e4a533\transformed\jetified-runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\36a8cabffcc1cfc94d5c1b9cf7e4a533\transformed\jetified-runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\a8d84b5dbd582bcbe94c962d54949a07\transformed\jetified-runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\a8d84b5dbd582bcbe94c962d54949a07\transformed\jetified-runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\58099a1fefdf516b9eeb3214da12cdc7\transformed\jetified-lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\58099a1fefdf516b9eeb3214da12cdc7\transformed\jetified-lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\974ff8dd826475991af605f786dd11a6\transformed\jetified-lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\974ff8dd826475991af605f786dd11a6\transformed\jetified-lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\9b072abcdfa1b65d5135f7517accb15b\transformed\jetified-ui\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\9b072abcdfa1b65d5135f7517accb15b\transformed\jetified-ui\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\456f09d23fc0902a67976327ea6e9cc9\transformed\jetified-activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\456f09d23fc0902a67976327ea6e9cc9\transformed\jetified-activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\6dc2159cd31f68d9765ee178392b8b99\transformed\jetified-activity-compose-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\6dc2159cd31f68d9765ee178392b8b99\transformed\jetified-activity-compose-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\603a3b82a079f2baf10c9e65ccba2167\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\603a3b82a079f2baf10c9e65ccba2167\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\961c6dfc1adbb9a897d24b6e97493a34\transformed\jetified-core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\961c6dfc1adbb9a897d24b6e97493a34\transformed\jetified-core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\6d440091e6cd38d79f85b9967a866a9c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\6d440091e6cd38d79f85b9967a866a9c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\d89b146ad9d7eba293fc790b0c6e2b76\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\d89b146ad9d7eba293fc790b0c6e2b76\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\97766c7f340ae7e4cce0c5bf7113164c\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\97766c7f340ae7e4cce0c5bf7113164c\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\03a56a044de1f025411bf0954701744f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\03a56a044de1f025411bf0954701744f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\bd78f61398f9ee314b7e45cf9fe24000\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\bd78f61398f9ee314b7e45cf9fe24000\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\6bf8491d0ab53d9752ee7ed0c572cc4e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\6bf8491d0ab53d9752ee7ed0c572cc4e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\e2ac8e73d357e7b8f031982bc0ac340c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\e2ac8e73d357e7b8f031982bc0ac340c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\17c2f6b23cd913db5ea64278319b9c14\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\17c2f6b23cd913db5ea64278319b9c14\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\dev2026\github-IDE\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\42b3da3d93360842822a9022f125d65a\transformed\jetified-ui-tooling\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\42b3da3d93360842822a9022f125d65a\transformed\jetified-ui-tooling\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.10.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\42b3da3d93360842822a9022f125d65a\transformed\jetified-ui-tooling\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\5622d61a9dbc08a0427e984b2c47c521\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\461ed608b4a6b77bf38bf7bc83199436\transformed\jetified-lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\461ed608b4a6b77bf38bf7bc83199436\transformed\jetified-lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\d89b146ad9d7eba293fc790b0c6e2b76\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\dev2026\Gradle_Home\caches\8.9\transforms\d89b146ad9d7eba293fc790b0c6e2b76\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\5622d61a9dbc08a0427e984b2c47c521\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\5622d61a9dbc08a0427e984b2c47c521\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\5622d61a9dbc08a0427e984b2c47c521\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\5622d61a9dbc08a0427e984b2c47c521\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\5622d61a9dbc08a0427e984b2c47c521\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\5622d61a9dbc08a0427e984b2c47c521\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\5622d61a9dbc08a0427e984b2c47c521\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\71215699db12c27859351f9e7741e1cc\transformed\jetified-window-1.5.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\71215699db12c27859351f9e7741e1cc\transformed\jetified-window-1.5.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\71215699db12c27859351f9e7741e1cc\transformed\jetified-window-1.5.0\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\71215699db12c27859351f9e7741e1cc\transformed\jetified-window-1.5.0\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\71215699db12c27859351f9e7741e1cc\transformed\jetified-window-1.5.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\71215699db12c27859351f9e7741e1cc\transformed\jetified-window-1.5.0\AndroidManifest.xml:27:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+permission#com.github.filemanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+uses-permission#com.github.filemanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\8e6f83a13f167b927a5f8ea92a8bdb88\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\461ed608b4a6b77bf38bf7bc83199436\transformed\jetified-lifecycle-process-2.9.4\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\461ed608b4a6b77bf38bf7bc83199436\transformed\jetified-lifecycle-process-2.9.4\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] D:\dev2026\Gradle_Home\caches\8.9\transforms\461ed608b4a6b77bf38bf7bc83199436\transformed\jetified-lifecycle-process-2.9.4\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] D:\dev2026\Gradle_Home\caches\8.9\transforms\b206324576515182ed23f654626bdb5f\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
